@@ -1,0 +1,17 @@
+:root {
+  --brand-green: #059669;
+  --brand-light: #ecfdf5;
+  --r-md: 8px;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #f9fafb;
+  color: #111827;
+}
+
+a {
+  color: var(--brand-green);
+  text-decoration: none;
+}

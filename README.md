@@ -1,2 +1,2 @@
-# wbertech-bundles
+# webertech-bundles
 Safaricom Bingwa Sokoni
